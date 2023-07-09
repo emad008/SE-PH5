@@ -1,0 +1,5 @@
+id,name,approvement_status,description,reject_reason,price
+1,Diabetes Treatment,APPROVED,"Diabetes is a chronic condition characterized by high levels of sugar (glucose) in the blood, 
+                which can lead to a range of complications affecting various organs and systems in the body.",,10000
+2,Appendicitis Treatment,APPROVED,"Appendicitis is a condition in which the appendix becomes inflamed and swollen, causing pain and 
+                tenderness in the lower right abdomen.",,10
